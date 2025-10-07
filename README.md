@@ -93,7 +93,7 @@ That's it! The application will be available at:
       │        │        │
       │        │        │
 ┌─────▼────┐ ┌▼─────┐ ┌▼──────┐
-│PostgreSQL│ │Redis │ │ MinIO │
+│PostgreSQL│ │Redis │ │ MinIO/S3 │
 │(Database)│ │(Cache)│ │(Files)│
 └──────────┘ └──────┘ └───────┘
 ```
