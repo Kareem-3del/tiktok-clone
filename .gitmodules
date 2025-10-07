@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kareem-3del/backend-tiktok-clone.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Kareem-3del/frontend-tiktok-clone.git
