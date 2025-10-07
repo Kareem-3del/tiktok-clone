@@ -6,18 +6,18 @@ A modern, full-stack TikTok clone with progressive video streaming and intellige
 
 This project is split into multiple repositories:
 
-- **Main:** [tiktok-clone](https://github.com/YOUR_USERNAME/tiktok-clone) - Full project with Docker setup
-- **Backend:** [backend-tiktok-clone](https://github.com/YOUR_USERNAME/backend-tiktok-clone) - NestJS API
-- **Frontend:** [frontend-tiktok-clone](https://github.com/YOUR_USERNAME/frontend-tiktok-clone) - Next.js app
+- **Main:** [tiktok-clone](https://github.com/Kareem-3del/tiktok-clone) - Full project with Docker setup
+- **Backend:** [backend-tiktok-clone](https://github.com/Kareem-3del/backend-tiktok-clone) - NestJS API
+- **Frontend:** [frontend-tiktok-clone](https://github.com/Kareem-3del/frontend-tiktok-clone) - Next.js app
 
 ### Clone This Project
 
 ```bash
 # Clone with all submodules
-git clone --recursive https://github.com/YOUR_USERNAME/tiktok-clone.git
+git clone --recursive https://github.com/Kareem-3del/tiktok-clone.git
 
 # Or clone then init submodules
-git clone https://github.com/YOUR_USERNAME/tiktok-clone.git
+git clone https://github.com/Kareem-3del/tiktok-clone.git
 cd tiktok-clone
 git submodule update --init --recursive
 ```
